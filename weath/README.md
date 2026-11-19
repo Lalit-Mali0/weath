@@ -1,61 +1,26 @@
+# 🌦️ weath: Weather Web App
 
-# Project Title
+**A [responsive] weather web app that [shows the current weather for any city you search].** Built with HTML and CSS [and JavaScript].
 
-A brief description of what this project does and who it's for
+🔗 **Live demo:** https://lalit-mali0.github.io/weath/
 
-## Tech Stack
+| Desktop | Mobile |
+|---|---|
+| ![Desktop](images/desktop.png) | ![Mobile](images/mobile.png) |
 
-**Client:** HTML, CSS, JavaScript, API
+## ✨ Features
+- [Search weather by city]
+- [Shows temperature, humidity and wind]
+- [Layout adapts to phone and desktop screens]
 
-## Demo
+## ⚡ Performance
+Lighthouse scores (Chrome DevTools): Performance [xx] · Accessibility [xx] · Best Practices [xx] · SEO [xx]
 
-Insert gif or link to demo
+## 🛠️ Built with
+HTML · CSS · [JavaScript / weather API name, only if you used them]
 
-## Features
+## ▶️ Run locally
+Clone the repo and open `index.html` in your browser.
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
-
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+## 👤 Author
+**Lalit Mali** · [LinkedIn](https://www.linkedin.com/in/lalit-mali-313527291)
